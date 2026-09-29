@@ -12,6 +12,10 @@ The university announcement describes using YouBike information to locate rental
 
 University announcement, page 1: https://academicntue.ntue.edu.tw/var/file/2/1002/img/19/165.pdf
 
+Preserved copy of the same newsletter (NTUE Newsletter No. 165, December 2012), retrieved on 2026-09-29 in case the original link stops working: https://github.com/huaditsai/freebike-android/blob/master/docs/ntue-newsletter-165-2012-12.pdf
+
+The newsletter is published by National Taipei University of Education, which retains its rights. The copy is kept only as a reference for this award; the other news items in the issue are unrelated to this project.
+
 ## Features visible in the preserved source
 
 - Display bike rental stations using the original station data and map overlays.
