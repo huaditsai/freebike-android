@@ -4,6 +4,11 @@ A historical Android student-team project for finding Taipei YouBike stations, c
 
 **Status: preserved as a historical portfolio artifact. No longer maintained.** This is not a current YouBike client, a supported release, or a recommendation to install an old APK on a personal device. Compatibility with current Android versions and external services has not been tested.
 
+Related repositories:
+
+- Competition-period development history (October 2012 to July 2013): https://github.com/huaditsai/freebike-android-2012
+- UBike+, the team's 2013 follow-up app: https://github.com/huaditsai/ubike-plus-android
+
 ## Background and team recognition
 
 National Taipei University of Education reported that the Free Bike student team, including HuaDi Tsai (蔡華棣), received second place in the **台北生活好便利服務創新應用組** category of the **2012 第十七屆全國大專校院資訊應用服務創新競賽**. This was a team award under faculty supervision, not an individual award.
